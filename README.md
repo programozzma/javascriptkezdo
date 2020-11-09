@@ -1,5 +1,5 @@
 # Javascript kezdő
-Javascript Kezdő kurzus anyaga ..
+Javascript Kezdő kurzus anyaga  
 Videó: https://www.youtube.com/watch?v=VyYNgbMMJfM
 
 ## 1. Programozás alapjai
