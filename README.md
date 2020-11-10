@@ -16,7 +16,7 @@ console.log("Hello")
 console.log("Hello");
 ```
 
-## 1. Konstansok és változók
+## 2. Konstansok és változók
 
 ```javascript
 const pi = 3.14;
